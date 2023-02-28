@@ -6,9 +6,9 @@
   <h3 align="center">Tercan Keskin</h3>
   Web Developer <a href="https://www.gupse.com/" title="Gupse Bilgi Teknolojileri"><strong>@gupse</strong></a>
   <hr align="center" width="256">
-  <a href="https://github.com/wordpress/">@WordPress</a> lover
-  · dad
+  Dad
   · <a href="https://tercan.net/siirlerim/">poet</a>
+  · <a href="https://github.com/WordPress/WordPress">WordPress</a> lover
   <br />
   <br />
   <a href="https://www.linkedin.com/in/tercan/" title="Follow on Linkedin">LinkedIn</a> · 
