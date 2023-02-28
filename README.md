@@ -10,7 +10,7 @@
   <br />
   Web Developer <a href="https://www.gupse.com/" title="Gupse Bilgi Teknolojileri"><strong>@gupse</strong></a>
   ·
-  <a href="https://github.com/wordpress/">@WordPress</a> lover developer
+  <a href="https://github.com/wordpress/">@WordPress</a> lover
   ·
   <a href="https://tercan.net/siirlerim/">poet</a>
   <br />
