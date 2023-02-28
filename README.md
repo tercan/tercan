@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="center">
+	<a href="https://tercan.net/" target="_blank">
+		<img src="https://tercan.net/i/tercan-keskin-300x300.png" alt="Logo" width="128" height="128">
+	</a>
 
-<!--
-**tercan/tercan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+	<h2 align="center">Tercan Keskin</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	<p align="center">
+		Uzun cümleler kurarım.
+		<br />
+		Web Developer <a href="https://www.gupse.com/" target="_blank"><strong>@gupse »</strong></a>
+		<br />
+		<br />
+		<a href="https://github.com/wordpress/">@WordPress</a> lover
+</div>
