@@ -15,8 +15,8 @@
   <a href="https://tercan.net/siirlerim/">poet</a>
   <br />
   <br />
-  <a href="https://www.linkedin.com/in/tercan/" title="Linkedin’de takip edin">LinkedIn</a> · 
+  <a href="https://www.linkedin.com/in/tercan/" title="Follow on Linkedin">LinkedIn</a> · 
   <a href="https://www.instagram.com/tercankeskin" title="Follow on Instagram">Instagram</a> · 
-  <a href="https://twitter.com/tercankeskin" title="Twitter’da takip edin">Twitter</a> · 
-  <a href="https://www.facebook.com/tercankeskin" title="Facebook’ta takip edin">Facebook</a>
+  <a href="https://twitter.com/tercankeskin" title="Follow on Twitter">Twitter</a> · 
+  <a href="https://www.facebook.com/tercankeskin" title="Follow on Facebook">Facebook</a>
 </div>
