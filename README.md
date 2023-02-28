@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://tercan.net/" title="karalama defterim">
-    <img src="https://tercan.net/i/tercan-keskin-300x300.png" alt="Logo" width="128" height="128" style="border-radius:64px;">
+    <img src="https://tercan.net/i/tercan-akif-20130519152314.jpg" alt="Tercan Keskin" width="720" height="405">
   </a>
 
   <h3 align="center">Tercan Keskin</h3>
