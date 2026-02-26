@@ -22,5 +22,6 @@
   <a href="https://www.linkedin.com/in/tercan/" title="Follow on Linkedin">L</a> · 
   <a href="https://www.instagram.com/tercankeskin" title="Follow on Instagram">I</a> · 
   <a href="https://x.com/tercankeskin" title="Follow on X">X</a> · 
-  <a href="https://www.facebook.com/tercankeskin" title="Follow on Facebook">F</a>
+  <a href="https://www.facebook.com/tercankeskin" title="Follow on Facebook">F</a> · 
+  <a href="https://tercan.net/iletisim/" title="Send a message">M</a>
 </div>
