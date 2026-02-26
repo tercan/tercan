@@ -5,15 +5,18 @@
   </a>
 
   <h2>Tercan Keskin</h2>
-  Web Developer <a href="https://www.gupse.com/" title="Gupse Bilgi Teknolojileri"><strong>@gupse</strong></a>
-  <hr align="center" width="180">
 
+  <div dir="auto" style="padding: 0;line-height: 1.5;color: #aaa;font-style: italic;font-size: .8rem;">
+    İnsan, Baba, <a style="color:inherit;text-decoration:underline;" href="https://tercan.net/siirlerim/" rel="nofollow">Şair</a>, Web Geliştirici <a href="https://www.gupse.com/" title="Gupse Bilgi Teknolojileri"><strong>@gupse</strong></a>, <a style="color:inherit;text-decoration:underline;" href="https://tercan.net/wordpress/" rel="nofollow">WordPress</a> Sever
+  </div>
+
+  <hr align="center" width="180">
+  <h3>Projeler</h3>
   <ul dir="auto" style="margin: 0 0 0 1.15rem;padding: 0;line-height: 1.5;">
-    <li style="margin-top: .25em;">İnsan</li>
-    <li>Baba</li>
-    <li><a href="https://tercan.net/siirlerim/" rel="nofollow">Şair</a></li>
-    <li><a href="https://www.gupse.com/" rel="nofollow">Web Geliştirici</a></li>
-    <li><a href="https://tercan.net/wordpress/" rel="nofollow">WordPress</a> Sever</li>
+    <li style="margin-top: .25em;"><a href="https://www.terkip.net" target="_blank" rel="noopener noreferrer">Terkip</a> <span style="font-size: .875rem;opacity: .725;font-weight: lighter;">(Hepsi bir arada ücretsiz çevrimiçi araç koleksiyonu)</span></li>
+    <li><a href="https://tercan.github.io/telkari" target="_blank" rel="noopener noreferrer">Telkari</a> <span style="font-size: .875rem;opacity: .725;font-weight: lighter;">(Tema bağımsız WordPress sosyal medya bağlantıları yönetim eklentisi.)</span></li>
+    <li><a href="https://tercan.github.io/tabibe" target="_blank" rel="noopener noreferrer">Tabibe</a> <span style="font-size: .875rem;opacity: .725;font-weight: lighter;">(Modern, minimalist Chrome yeni sekme özelleştirme uzantısı.)</span></li>
+    <li><a href="https://github.com/tercan/wp-heading-buttons" target="_blank" rel="noopener noreferrer">WP Heading Buttons</a> <span style="font-size: .875rem;opacity: .725;font-weight: lighter;">(WordPress başlık butonları eklentisi.)</span></li>
   </ul>
 
   <hr align="center" width="180">
